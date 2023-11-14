@@ -1,4 +1,3 @@
-
 /* Estilos Globais */
 
 * {
@@ -6,6 +5,11 @@
     text-decoration: none;
     list-style-type: none;
     color: #25282e;
+
+}
+
+body {
+    background-image: url("./../imagens/fundo.jpg");
 }
 
 a,
@@ -15,6 +19,7 @@ i {
 
 .secondary-color {
     color: #555;
+
 }
 
 .center-image {
@@ -37,6 +42,6 @@ i {
 
 /* Header*/
 
-header{
-    background-color: #888;
+header {
+    background-color: #fff;
 }

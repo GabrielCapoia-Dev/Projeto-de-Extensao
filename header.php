@@ -22,16 +22,16 @@
 </head>
 
 <body>
-    <div class="cointainer">
-        <header class="row justify-content-end">
-            <div class="col-lg-6">
+    <div class="container">
+        <header class="row">
+            <div class="col-lg-6 col-md-4 align-itens-center justify-content-center">
                 <a href="index.php" title="Home">
-                    <img src="#" alt="Xbox">
+                    <img src="./imagens/logo.jpg" alt="Xbox">
                 </a>
             </div>
 
-            <nav class="col-lg-6">
-                <ul class="row justify-content-end">
+            <nav class="col-lg-6 col-md-8">
+                <ul class="row">
                     <li class="col"><a href="index.php" title="Home">Home</a></li>
                     <li class="col"><a href="sobre.php" title="Sobre">Sobre</a></li>
                     <li class="col"><a href="noticias.php" title="Noticias">Produtos</a></li>
